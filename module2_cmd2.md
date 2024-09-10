@@ -1,5 +1,5 @@
 Summary
-In this lab, you learned that you can use the commands:
+## In this lab, you learned that you can use the commands:
 
 whoami to return your username
 uname to print the kernel name
@@ -22,3 +22,15 @@ Option	Description
 -S	sort by file size, largest first
 -t	sort by last-modified date, newest first
 -r	reverse the sort order
+
+## In this lab, you learned that you can use the commands:
+
+pwd to get the location of your present working directory
+ls to list the files and directories within a directory
+mkdir to create a new directory
+cd to change your present working directory
+touch to create a new file
+find to search for and locate files
+rm to remove a file
+mv to rename or move a file
+cp to copy a file
