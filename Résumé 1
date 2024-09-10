@@ -1,0 +1,23 @@
+## Résumé et points forts
+Traduit automatiquement de Anglais
+Nous vous félicitons ! Vous avez terminé ce module. À ce stade, vous savez que  
+
+Dans les années 1980, GNU a été développé au MIT. GNU est l'acronyme de "GNU's not Unix" (GNU n'est pas Unix) et a été conçu comme un ensemble libre et Open Source des outils existants du système Unix. En 1991, Linus Torvalds a développé une version libre et Open Source du noyau Unix appelée Linux.
+
+Linux est largement utilisé aujourd'hui dans les appareils mobiles, les ordinateurs de bureau, les superordinateurs, les centres de données et les serveurs cloud. 
+
+Les distributions Linux (également appelées "distros") se distinguent par leurs UI, leurs applications shell et la manière dont l'OS est pris en charge et construit. 
+
+La conception d'une distribution est adaptée à son public spécifique et/ou à son cas d'utilisation. Les distributions Linux les plus populaires sont Red Hat Enterprise Linux (RHEL), Debian, Ubuntu, Suse (SLES, SLED, OpenSuse), Fedora, Mint et Arch. 
+
+Le système Linux se compose de cinq couches principales : l'UI, l'application, l'OS, le noyau et le matériel. L'interface utilisateur permet aux utilisateurs d'interagir avec les applications. Les applications permettent aux utilisateurs d'effectuer des tâches au sein du système. Le système d'exploitation s'exécute au-dessus du noyau et est vital pour la santé et la stabilité du système. Le noyau est le logiciel de plus bas niveau qui permet aux applications d'interagir avec le matériel. Le matériel comprend tous les composants physiques ou électroniques de votre PC. 
+
+Le système de fichiers Linux est une structure arborescente composée de tous les répertoires et fichiers du système. 
+
+Un shell Linux est une application au niveau de l'OS que vous pouvez utiliser pour entrer des commandes. Vous utilisez un terminal pour envoyer des commandes à l'interpréteur de commandes, et vous pouvez utiliser la commande `cd` pour naviguer dans votre système de fichiers Linux. 
+
+Vous pouvez utiliser divers éditeurs de texte en ligne de commande ou basés sur l'IUG, tels que GNU nano, vim, vi et gedit. 
+
+.deb et .rpm sont des types de fichiers distincts utilisés par les gestionnaires de paquets dans les systèmes d'exploitation Linux. 
+
+Vous pouvez utiliser des gestionnaires de paquets en ligne de commande ou basés sur l'IUG pour mettre à jour et installer des logiciels sur les systèmes Linux. 
