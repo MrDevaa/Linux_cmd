@@ -14,23 +14,17 @@ Recall that a terminal window is a simple user interface that allows you to run 
 
 Let's see how this works using a couple of the most common Linux commands, the pwd and ls commands:
 
-
-
 Here we've entered the pwd command, which prints the path name for our present working directory on the next line. You can see that the command prints what we expected, which is the path to the present working directory, /home/project. Notice also that the command prompt shows up again on the following line, awaiting your next command.
 
 Great! Now, how do you see what's inside your present working directory?
 
 You can use the ls command to list the contents of the directory you are currently working in. At the moment, the /home/project directory is brand new and doesn't contain anything yet, so entering the ls command will return nothing:
 
-
-
 Being a conservative program, ls won't bother with printing a blank line to express that there is nothing to list.
 
 Let's see if we can find a directory that already contains content. You can list the contents of any directory with the ls command by specifying the directory name you'd like to explore.
 
 For example, ls /home lists the contents of the /home directory:
-
-
 
 You can see that the directory /home contains two objects, namely project and theia.
 
@@ -41,7 +35,6 @@ Notice the naming convention for a directory's path: /home/project indicates tha
 Like a tree, your Linux file system has a root directory (/, called "slash") from which your entire Linux file system branches out.
 
 One important subdirectory of your root directory is home. You can see this for yourself by entering ls / to list the contents of /:
-
 
 
 Summary
